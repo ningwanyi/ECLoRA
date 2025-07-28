@@ -1,0 +1,8 @@
+torch
+peft
+transformers
+datasets
+numpy
+scipy
+tqdm
+evaluate
